@@ -1,8 +1,8 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+/CoachApp/[Ll]ibrary/
+/CoachApp/[Tt]emp/
+/CoachApp/[Oo]bj/
+/CoachApp/[Bb]uild/
+/CoachApp/[Bb]uilds/
 /Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory

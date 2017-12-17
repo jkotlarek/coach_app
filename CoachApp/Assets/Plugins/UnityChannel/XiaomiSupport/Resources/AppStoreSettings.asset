@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd375853ab09456aaf09e607610061a, type: 3}
+  m_Name: AppStoreSettings
+  m_EditorClassIdentifier: 
+  UnityClientID: jhHGvJiEyG-Sq3X1GEu4kQ
+  UnityClientKey: J0-HZrbj0bpxn07eeYcwSu1vBn-v5hmQuRGK4pTGUNE
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApcWA4mPxaZSimr7UvsftrhXF4UxKdwIzrJc8EC+LtGOXH2rdtsgg12WrSrmWs2RRN7U5IkUlQvEB+j5l0Fm5s+bizlcElcKP4SEkhkQoOELjMxiOztqDQ28zhI7e9aY/A1l6edTuKJQLeBKGL1NRBxO4mQh0NkNij3l0K8dxCi8HdQ7LFakpOBUzjj2ERSBKKRblxa1CeDZG13+/FgT7fwYyZX4NMm8+hc1uS5H3pRlKp5iOBXyuduvWP75NZZ9/e+gpGYFyWgPgrQpUvZMjsp9OXoIbVQMh5iUypCeuw7mfKYMsZKTi4paEKgV4E/bLB7ysHg7tcetd37k5WIXYEwIDAQAB
+  XiaomiAppStoreSetting:
+    AppID: 
+    AppKey: 
+    IsTestMode: 1
